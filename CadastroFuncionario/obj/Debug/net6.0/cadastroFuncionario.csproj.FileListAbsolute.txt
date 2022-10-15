@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\cadastroFuncionario.exe
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\cadastroFuncionario.deps.json
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\cadastroFuncionario.runtimeconfig.json
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\cadastroFuncionario.dll
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\cadastroFuncionario.pdb
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\cadastroFuncionario.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\cadastroFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\cadastroFuncionario.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\cadastroFuncionario.AssemblyInfo.cs
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\cadastroFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\cadastroFuncionario.dll
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\refint\cadastroFuncionario.dll
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\cadastroFuncionario.pdb
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\cadastroFuncionario.genruntimeconfig.cache
+C:\Users\vinic\Documents\curso_C#\cadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\ref\cadastroFuncionario.dll
